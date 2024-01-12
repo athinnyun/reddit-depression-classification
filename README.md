@@ -11,6 +11,7 @@ This repository contains the code and final report submitted as part of the fina
 
 # Summary of Results
 We trained a total of seven classifiers with varying architectures and feature sets, with the highest performing model, an LSTM-based model using unigram and bigram features, achieving an **accuracy of 94.59% and F1: 0.96**. The full results are detailed in Table 1.
+
 ![Table 1](https://github.com/athinnyun/reddit-depression-classification/blob/main/Table%201.png?raw=true)
 
 We also identified the most predictive n-grams for posts made by depressed and non-depressed users and generated wordclouds illustrating the most frequent unigrams and bigrams.
